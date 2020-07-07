@@ -52,26 +52,6 @@ function DevForm({ onSubmit }) {
         />
       </div>
 
-
-      <div className="input-block">
-        <label htmlFor="">Senha</label>
-        <input
-          name=""
-          id=""
-          value={()=>{}}
-          onChange={()=>{}}
-        />
-      </div>
-      <div className="input-block">
-        <label htmlFor="">Senha</label>
-        <input
-          name=""
-          id=""
-          value={()=>{}}
-          onChange={()=>{}}
-        />
-      </div>
-
       <div className="input-block">
         <label htmlFor="techs">Tecnologias</label>
         <input
